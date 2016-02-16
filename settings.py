@@ -8,7 +8,7 @@ ADMINS = (
 )
 
 MANAGERS = ADMINS
-
+hhhhh
 
 
 DATABASES = {
