@@ -1,7 +1,7 @@
-function abcd()
+function abcd(a,a)
 	print "aa"
 
-function Abcd()
+function Abcd(b,b)
 	print "bb"
 
 function !abcd()
