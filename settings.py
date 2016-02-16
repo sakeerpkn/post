@@ -8,6 +8,8 @@ ADMINS = (
 )
 
 MANAGERS = ADMINS
+dsdsdsd
+
 
 DATABASES = {
     'default': {
