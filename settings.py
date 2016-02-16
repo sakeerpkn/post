@@ -8,10 +8,6 @@ ADMINS = (
 )
 
 MANAGERS = ADMINS
-hhhhh
-ooooo
-function abcds()
-	print a
 
 
 DATABASES = {
