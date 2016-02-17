@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+from exceptions import Exception
 if __name__ == "__main__":
 	try:
 	    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "settingss")
